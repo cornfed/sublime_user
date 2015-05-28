@@ -12,5 +12,6 @@
 	"remember_open_files": false,
 	"scroll_speed": 0,
 	"show_encoding": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"open_files_in_new_window": false
 }
