@@ -8,6 +8,7 @@
 
 	{ "keys": ["ctrl+shift+a"], "command": "keen_use_argument" },
 	{ "keys": ["ctrl+shift+p"], "command": "keen_assert_nullptr" },
+	{ "keys": ["ctrl+shift+l"], "command": "alignment" },
 
 	{ "keys": ["alt+o"], "command": "switch_to_cpp_hpp" },
 

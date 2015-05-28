@@ -1,17 +1,18 @@
 {
 	"auto_match_enabled": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Cobalt (SL).tmTheme",
 	"extract_sublime_package_ask_on_open": true,
 	"font_size": 12,
 	"highlight_line": true,
 	"hot_exit": false,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"remember_open_files": false,
+	"open_files_in_new_window": false,
+	"remember_open_files": true,
 	"scroll_speed": 0,
 	"show_encoding": true,
 	"word_wrap": false,
-	"open_files_in_new_window": false
+	
+	"tab_completion": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"use_tab_stops": 4
 }

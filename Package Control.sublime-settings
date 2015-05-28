@@ -4,8 +4,13 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Clipboard Manager",
+		"Highlight Build Errors",
 		"JSONLint",
-		"Package Control"
+		"LineEndings",
+		"Package Control",
+		"SyncedSideBar",
+		"Terminal"
 	]
 }
